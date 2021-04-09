@@ -15,7 +15,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |**Docker**|Dunst|
 |**File Manager**|Ranger, Thunar|
 |**PDF Reader**|zathura|
-|**Wallpaper Set**|Nitrogen|
+|**IMG Viewer**|feh|
 |**Music**|ncmpcpp,mpd|
 |**Video**|mpv|
 |**Compositor**|Picom|
