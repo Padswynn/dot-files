@@ -22,3 +22,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |**GTK Theme**|Arc-Dark|
 |**GTK Icons**|Zafiro|
 |**Audio**|Pulse|
+
+## Screenshots
+
+![Current Rice](https://github.com/Padsworth/dot-files/blob/main/rice.png)
