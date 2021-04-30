@@ -8,10 +8,9 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |:---:|---|
 |**Terminal**|[kitty](https://sw.kovidgoyal.net/kitty/)|
 |**Shell**|[Fish](https://fishshell.com/), OMF|
-|**WM**|[Openbox](http://openbox.org/wiki/Main_Page)|
-|**Bar**|[Tint2](https://github.com/semplice/tint2)|
+|**WM**|[bspwm](https://github.com/baskerville/bspwm)|
+|**Bar**|[polybar](https://polybar.github.io/)|
 |**Text Editor**|[Vim](https://www.vim.org/)|
-|**Pager**|[Most](http://www.jedsoft.org/most/)|
 |**Docker**|[Dunst](https://dunst-project.org/)|
 |**File Manager**|[Ranger](https://github.com/ranger/ranger), Thunar|
 |**PDF Reader**|[zathura](https://pwmt.org/projects/zathura/)|
