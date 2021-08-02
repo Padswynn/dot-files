@@ -7,7 +7,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |OS|Arch|
 |:---:|---|
 |**Terminal**|[kitty](https://sw.kovidgoyal.net/kitty/)|
-|**Shell**|[Fish](https://fishshell.com/), OMF|
+|**Shell**|zsh|
 |**WM**|[bspwm](https://github.com/baskerville/bspwm)|
 |**Bar**|[polybar](https://polybar.github.io/)|
 |**Text Editor**|[Vim](https://www.vim.org/)|
@@ -22,7 +22,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |**GTK Icons**|Zafiro|
 |**Audio**|Pulse|
 
-## Screenshots
+## Screenshots:
 
 ### BSPWM
 ![total-rice](https://raw.githubusercontent.com/Padsworth/dot-files/main/bspwm.rice.png)
