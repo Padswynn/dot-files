@@ -25,13 +25,13 @@ super + alt + o
 	sh -c "mpc volume -5"
 super + alt + p
 	sh -c "mpc volume +5"
-Print
+super + i
 	maim ~/media/strg/pictures/screenshots/(date '+%Y-%m-%d.%H-%M-%S').png
 # super + \ 
 	# sh -c "notify-send -h string:bgcolor:$background -h string:fgcolor:$foreground -h string:frcolor:$color2 (date +\"%a %-d %b at %H:%M\")"
 # lock the screen
 super + u
-	asciiquarium.screensaver
+	/home/paddy/local/bin/asciiquarium.screensaver
 
 # program launcher
 super + {_,shift,alt}+@space
