@@ -25,6 +25,9 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 ## Screenshots:
 
 ### BSPWM
+Current:
+![dance-with-me](https://raw.githubusercontent.com/Padsworth/dot-files/main/dance.png)
+
 ![total-rice](https://raw.githubusercontent.com/Padsworth/dot-files/main/bspwm.rice.png)
 
 ### Openbox
