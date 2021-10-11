@@ -36,3 +36,4 @@ bowing:
 
 ### Openbox
 ![openbox-rice](https://github.com/Padsworth/dot-files/blob/main/rice.png)
+
