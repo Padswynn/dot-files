@@ -26,8 +26,8 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 
 ### BSPWM
 current gruvbox theme
-![gruvbox-trip](https://raw/githubusercontent.com/Padsworth/dot-files/blob/rice.gruv_trip-1.png)
-![gruvbox-cont](https://raw/githubusercontent.com/Padsworth/dot-files/blob/rice.gruv_trip-2.png)
+![gruvbox-trip](https://github.com/Padsworth/dot-files/blob/main/rice.gruv_trip-1.png)
+![gruvbox-cont](https://github.com/Padsworth/dot-files/blob/main/rice.gruv_trip-2.png)
 
 bowing:
 ![dance-with-me](https://raw.githubusercontent.com/Padsworth/dot-files/main/dance.png)
