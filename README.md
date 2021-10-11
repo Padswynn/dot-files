@@ -18,14 +18,18 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |**Music**|[ncmpcpp](https://rybczak.net/ncmpcpp/),mpd|
 |**Video**|mpv|
 |**Compositor**|[Picom](https://github.com/yshui/picom)|
-|**GTK Theme**|Arc-Dark|
+|**GTK Theme**|gruvbox|
 |**GTK Icons**|Zafiro|
 |**Audio**|Pulse|
 
 ## Screenshots:
 
 ### BSPWM
-Current:
+current gruvbox theme
+![gruvbox-trip](https://raw/githubusercontent.com/Padsworth/dot-files/main/rice.gruv_trip-1.png)
+![gruvbox-cont](https://raw/githubusercontent.com/Padsworth/dot-files/main/rice.gruv_trip-2.png)
+
+bowing:
 ![dance-with-me](https://raw.githubusercontent.com/Padsworth/dot-files/main/dance.png)
 
 ![total-rice](https://raw.githubusercontent.com/Padsworth/dot-files/main/bspwm.rice.png)
