@@ -29,7 +29,7 @@ current wallpaper and polybar look
 ![gruvbox-broken](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_vessel-wallpaper.png)
 current gruvbox theme
 ![gruvbox-trip](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-1.png)
-![gruvbox-cont](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-2.png)
+![gruvbox-cont](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-2.1.png)
 
 <!-- bowing: -->
 <!-- ![dance-with-me](https://raw.githubusercontent.com/Padsworth/dot-files/main/dance.png) -->
