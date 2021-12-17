@@ -14,8 +14,8 @@ import json
 
 # Settings
 <<<<<<< HEAD
-city = "5201996" # Your town id
-api_key = "8207cc33a757305bbb72a498c4eda011" # Your openweather api key
+city = "Your ID" # Your town id
+api_key = "Your Key" # Your openweather api key
 =======
 city = "<Your City>" # Your town
 api_key = "<Your Token>" # Your openweather api key
