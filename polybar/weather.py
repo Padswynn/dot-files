@@ -13,7 +13,7 @@ import requests
 import json
 
 # Settings
-city = "Trenton, US" # Your town
+city = "5201996" # Your town id
 api_key = "8207cc33a757305bbb72a498c4eda011" # Your openweather api key
 units = "imperial" # Unit system {imperial or metric}
 temperature_unit = "F" # Units of measurement. That will be showed in UI. Does not affect on API.
@@ -55,7 +55,7 @@ atmophere_icons_list = {
 def main():
     try:
         # Get data from openweather
-        url = ('http://api.openweathermap.org/data/2.5/weather?q={}&units={}&appid={}').format(city, units, api_key)
+        url = ('http://api.openweathermap.org/data/2.5/weather?id={}&units={}&appid={}').format(city, units, api_key)
         result = requests.get(url)
 
         # If result was received

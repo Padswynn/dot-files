@@ -23,7 +23,7 @@ margin-bottom = 5
 include-file = ~/.config/polybar/colors.ini
 include-file = ~/.config/polybar/modules.ini
 ; include-file = ~/.config/polybar/weather.py
-
+include-file = ~/.config/polybar/powerline-for-polybar/powerline-for-polybar.config
 ;-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 [bar/status-bar]
@@ -52,12 +52,13 @@ padding-right = 0
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = "PT\ Serif:size=8;2"
+font-0 = "PT Serif:size=8;2"
 font-1 = "PTMono Nerd Font:size=12;2"
+font-2 = "Inconsolata for Powerline:pixelsize=15:antialias=true;3"
 
 modules-left = 
 modules-center = 
-modules-right = filesystem kernel memory cpu temp-cpu temp-gpu uptime eth weather date
+modules-right = filesystem kernel memory cpu temp-cpu temp-gpu uptime eth weather date u
 
 tray-position = 
 tray-padding = 2
@@ -145,6 +146,72 @@ cursor-scroll = ns-resize
 format-prefix = "- "
 format-prefix-foreground = ${colors.primary}
 format-prefix-underline = ${colors.secondary}
+
+label-layout = %layout%
+label-layout-underline = ${colors.secondary}
+
+label-indicator-padding = 2
+label-indicator-margin = 1
+label-indicator-background = ${colors.secondary}
+label-indicator-underline = ${colors.secondary}
+
+;-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[bar/vim]
+;monitor = ${env:MONITOR:HDMI-1}
+width = 100%
+height = 22
+; offset-x = 0.6%
+; offset-y = .5%
+radius = 0
+fixed-center = true
+monitor-strict = false
+bottom = true
+; seperator = 
+
+background = ${colors.darkest-grey}
+foreground = ${colors.foreground}
+
+border-size = 0 
+border-color = ${colors.dark-grey}
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = "PT\ Mono Bold:size=10;3"
+font-1 = "PTMono Nerd Font:size=13.5;3.3"
+font-2 = "PTMono Nerd Font:size=14.7;4"
+font-3 = "PTMono Nerd Font:size=17.7;4"
+
+modules-left = bspwm2 separate
+; modules-center = filesystem kernel memory cpu temp-cpu temp-gpu uptime eth weather date 
+modules-right = kernel memory cpu temp-cpu temp-gpu uptime eth weather date tray arch
+tray-position = right
+tray-padding = 2
+
+tray-background = ${colors.red}
+
+wm-restack = bspwm
+;wm-restack = i3
+
+; override-redirect = true
+
+;scroll-up = bspwm-desknext
+;scroll-down = bspwm-deskprev
+
+;scroll-up = i3wm-wsnext
+;scroll-down = i3wm-wsprev
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+line-size = 3
+
+; format-prefix = "- "
+; format-prefix-foreground = ${colors.primary}
+; format-prefix-underline = ${colors.secondary}
 
 label-layout = %layout%
 label-layout-underline = ${colors.secondary}
