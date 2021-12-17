@@ -25,7 +25,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 ## Screenshots:
 
 ### BSPWM
-current wallpaper and polybar look
+current wallpaper and old polybar look
 ![gruvbox-broken](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_vessel-wallpaper.png)
 current gruvbox theme
 ![gruvbox-trip](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-1.png)
