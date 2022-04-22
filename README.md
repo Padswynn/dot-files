@@ -10,26 +10,22 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 |**Shell**|zsh, zinit|
 |**WM**|[bspwm](https://github.com/baskerville/bspwm)|
 |**Bar**|[polybar](https://polybar.github.io/)|
-|**Text Editor**|[Vim](https://www.vim.org/)|
+|**Text Editor**|doom-emacs|
 |**Docker**|[Dunst](https://dunst-project.org/)|
 |**File Manager**|[Ranger](https://github.com/ranger/ranger)|
-|**PDF Reader**|[zathura](https://pwmt.org/projects/zathura/)|
 |**IMG Viewer**|[feh](https://feh.finalrewind.org/)|
 |**Music**|[ncmpcpp](https://rybczak.net/ncmpcpp/),mpd|
-|**Video**|mpv|
 |**Compositor**|[Picom](https://github.com/yshui/picom)|
 |**GTK Theme**|gruvbox|
-|**GTK Icons**|Zafiro|
-|**Audio**|Pulse|
 
 ## Screenshots:
 
 ### BSPWM
-current wallpaper and old polybar look
-![gruvbox-broken](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_vessel-wallpaper.png)
-current gruvbox theme
-![gruvbox-trip](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-1.png)
-![gruvbox-cont](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.gruv_trip-2.1.png)
+current theme:
+![current_theme](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.jjk_yuji-sukuna.png)
+
+current wallpaper and polybar look
+![gruvbox-jjk](https://github.com/Padsworth/dot-files/blob/main/screenshots/gruvbox_jjk_yugi.jpg)
 
 <!-- bowing: -->
 <!-- ![dance-with-me](https://raw.githubusercontent.com/Padsworth/dot-files/main/dance.png) -->
