@@ -181,10 +181,10 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = "PT\ Mono Bold:size=10;3"
-font-1 = "PTMono Nerd Font:size=13.5;3.3"
-font-2 = "PTMono Nerd Font:size=14.7;4"
-font-3 = "PTMono Nerd Font:size=17.7;4"
+font-0 = "Go Mono Bold Nerd Font Complete:size=10;3"
+font-1 = "Go Mono Nerd Font Mono:size=15.5;4.3"
+font-2 = "Go Mono Nerd Font Mono:size=12.7;4"
+font-3 = "Go Mono Nerd Font Mono:size=17.7;5"
 
 modules-left = bspwm2 separate
 ; modules-center = filesystem kernel memory cpu temp-cpu temp-gpu uptime eth weather date 
