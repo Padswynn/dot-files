@@ -24,7 +24,7 @@ reddit: u_Padapoo, Arch Forums: Padsworth
 current theme:
 ![current_theme](https://github.com/Padsworth/dot-files/blob/main/screenshots/rice.jjk_yuji-sukuna.png)
 
-current wallpaper and polybar look
+current wallpaper
 ![gruvbox-jjk](https://github.com/Padsworth/dot-files/blob/main/screenshots/gruvbox_jjk_yugi.jpg)
 
 <!-- bowing: -->
