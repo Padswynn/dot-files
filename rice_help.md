@@ -138,6 +138,12 @@ There are 3 'main' shells to use, and again it is preference. What are you used 
 #### Browsers
 You probably already have your favorite.
 
+#### Fonts
+You might already have a favorite, however it is important to make it better.
+
+Nerd fonts have an extensive unicode expansion. There are many fonts that are already patched to be nerd fonts, however you can allways patch your own.     
+Either way, a patched font is needed for configing later and for great eye-candy
+
 ### WM Specific
 These are not strictly limited to WMs, however they are only needed to be picked if you have one. Most DEs have all these built in already
 
@@ -179,25 +185,66 @@ These are those neat terminal applications that display  system info and typical
 - Treefetch
 #### Browser Extremities
 #### File Manager
+There are a few options with file managers. There are GTK and terminal File manager options, and either are 'equally' valid, based on what you are comfortable
 #### Icons
+Icons are minor object. If you use a GTK FM, they are probably a necessity, however if you use a terminal FM they are completly redundant. As I use the latter, I never really pay any mind to icons
 #### Pretty Things
+
+- cbonsai
+  - a terminal bonsai tree
+- cava
+  - A musicl visualizor
+- matrix thing
 ## Choose Theme
+Time to get to the meat and potatoes of ricing.
+
+The most important thing to having a beautiful rice is the consistancy that a standardized color theme has.
+
+Themes are all subjective. Do you like light themes or dark themes? Retro or Modern? Futuristic? Easy on the eyes or high contrast?
 ### Built in themes
+There are many standard themes. These are going to be your `solariced`'s and `nord`'s of the world. Typically, they will be built into many applications that you want to theme, thus making it one less step for later
 ### Addon Themes
+These are typically projects of people who made their own themes, uploaded them to github, and others liked them so much they have ported them to many other applications. 
 ### Custom Theming
 #### CSS And Color Writing
+If you have proficiency with CSS (the best coding language ;p) then you can typically write your own themes
 #### External Tools
+Don't like any themes you see, but have a wallpaper that you wanna match colors to? Check out tools like `pywal`, they can build color themes off of palets and images.
 ### Wallpaper
+Having a pretty wallpaper is incredibly important. 
+
+There are two approaches to picking a wallpaper:
+- Find one you think is pretty and pick/build a theme off of it
+- Pick a wallpaper that already matches your theme
 ## Configuring
+This section will primarily be linking to documentation for programs that I am familiar with.
 ### dotfiles
-### Themeing programs
-#### Terminals
-#### GTK
-#### Text Editors
-#### Everything Else
+This is why a text editor is crucial to the themeing process.
+
+While some simple GUI applications have build in GUI configuration options, most applicationms you are going to get into configuring either:
+A. Dont allow you to configure enough via the GUI
+B. Simply don't have GUI config options
+
+Because of this, you are *GOING TO NEED* to become familiar with text configuration
+- - - -
+Most config files can be found in two places: you home directory, or the `.config` directory.
+Config files are almost always preceeded by a `.` which is why they are refered to as `dot files`.
+Files in the home directory typically controll lower level UI configs, while files in the `.config` dir are for extrenious programs.
+- - - - 
+Now the major pain of configing dot files is that almost all of theme use their own formatting and there is basically no consistancy.
+You will need to read **Lots** of documentation. This becomes the most tedious part of ricing, but it is where the fun truly is.
+Ricers, while will groan about the config process, actually love it. Typically you start as a beginner making only minor changes. A month later, you find yourself obsessing over the specific pixel offset of one of your 6 fonts in your polybar config.
 ### Minor tweaking
 #### Changing Built-ins
 #### Terminal Tweaking
+- xterm
+- alacrity
+- urxt
+- kitty
+- terminator
+#### Text Editors
+- vim
+- emacs
 #### Browser
 #### Shell
 ### Major Tweaking
