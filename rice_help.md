@@ -55,14 +55,14 @@ Ricing is what the people over on [r/unixporn](reddit.com/r/unixporn) do to farm
     - Also Still Terminals/Shells
     - WMs
 
-### Choose Components
-#### Most Important
-##### Xorg or Wayland?
+## Choose Components
+### Most Important
+#### Xorg or Wayland?
 The foundation of any UI is the display server. If you are reading this section, you currently are almost certainly using Xorg (commonly reffered to simply as X or X11). It is a fork of the windows X11 display server, and is what all else is built on top of. Xorg is the most common display server, but Wayland is a new alternative that is slowly gaining traction
 - - - - - 
 I have absolutely 0 experience with Wayland, and therefor, the rest of this guide will be written assuming Xorg
 
-##### DE or WM?
+#### DE or WM?
 The 'unix way' and the way that Xorg-based UIs are built is modular. We are going to skip a step right now and jump to the next major decission you are going to have to make: Do you want a desktop environment (DE) or a window manager (WM)?
 - - - - - 
 Desktop environments are pre-built, pre-configured userspaces. Distros typically ship with a DE already installed, and often even themed to their distro. This is a wonderful thing, as DEs are often incredibly user friendly, allowing an easy transition, or even just a simply comfy set up.
@@ -172,8 +172,11 @@ Application launchers allow you to... launch applications and run commands. Peop
 - Rofi
 - - - - 
 ### 'Lower Importance'
-
 #### Fetcher
+These are those neat terminal applications that display  system info and typically also have little pictures. Here are a few to consider:
+- Neofetch
+- Nerdfetch
+- Treefetch
 #### Browser Extremities
 #### File Manager
 #### Icons
